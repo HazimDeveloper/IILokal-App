@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^lmits/homepage$ ilokal-app/index.php [L]

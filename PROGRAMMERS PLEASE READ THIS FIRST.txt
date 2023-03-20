@@ -1,0 +1,16 @@
+Attention all programmers! 
+
+We want to draw your attention to an important detail about the LMITS website. The site was originally created as a food order website, but has since been repurposed into a Laptop Maintenance and Issue Tracking System (LMITS). As a result, some terms and functionalities within the website may still be labeled with food-ordering related terminology. For example, you may come across terms like "dishes" or "restaurants" that do not directly apply to the current LMITS system.
+
+To help clarify the situation, we would like to provide you with some examples of terms that have been repurposed for the LMITS system. The term "dishes" has been replaced with "laptop" to better reflect the current context of the website. Similarly, "restaurants" has been replaced with "problem details" to better align with the LMITS system. Finally, the original slogan of the website has been replaced with "laptop description" to provide a more accurate description of the site's purpose.
+
+We understand that it can be difficult to navigate a website with terminology that is not directly related to its current purpose. Additionally, we want to remind you that you are free to modify any relevant coding or terminology to better suit the LMITS system. This includes the ability to edit or remove any coding that is no longer used or necessary for the LMITS system. You can replace outdated terms with more relevant ones, or even rename certain functions to better reflect their purpose in the new system.
+
+We apologize for any confusion or inconvenience this may cause, and we appreciate your understanding and flexibility as we continue to improve and refine the LMITS system. Thank you for your hard work and dedication to this project, and please don't hesitate to reach out if you have any questions or concerns.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Dishes - Laptop
+Restaurants - Problem Details
+Slogan - Laptop Description
+
